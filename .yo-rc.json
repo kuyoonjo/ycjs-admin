@@ -1,0 +1,13 @@
+{
+  "generator-angular-library": {
+    "githubUsername": "kuyoonjo",
+    "githubRepoName": "ycjs-admin",
+    "npmModuleName": "@ycjs/admin",
+    "moduleGlobal": "ycjsAdmin",
+    "ngModuleName": "YcjsAdminModule",
+    "selectorPrefix": "ycjs-admin",
+    "projectTitle": "admin",
+    "projectDescription": "",
+    "authorName": "Yu Chen"
+  }
+}
